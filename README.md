@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewppratt
 - 👀 I’m interested in Data Science, Machine Learnng, and Computer Vision.
-- 🌱 I’m currently learning/ completing my Masters of Engineering Science in Data Science at the Univerisity at Buffalo.
+- 🌱 I have recently completed my Masters of Engineering Science in Data Science at the Univerisity at Buffalo.
 - 💞️ I’m looking to collaborate on anything I can help with.
 - 📫 How to reach me pratt.andrew.p@gmail.com
 
