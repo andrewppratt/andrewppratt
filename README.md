@@ -8,17 +8,17 @@ I’m a software developer transitioning into machine learning and AI engineerin
 
 ## 🧬 Featured Project: Genomic ML Pipeline
 
-* Implemented a full pipeline for genomic data analysis:
+Built a full pipeline for analyzing high-dimensional genomic data:
 
-  * SNP simulation
-  * GWAS (Genome-Wide Association Study)
-  * Bonferroni correction
-  * Feature selection
-  * ML models (Lasso, Random Forest)
-
-**Key insight:**
-
-> Simple models outperform complex ones in high-dimensional sparse data.
+Simulated SNP datasets (1000+ features)
+Implemented GWAS using linear regression
+Applied Bonferroni correction for multiple testing
+Performed feature selection from statistical results
+Trained and evaluated ML models (Lasso, Random Forest)
+📊 Results
+Reduced feature space from 1000 → 50 SNPs
+Maintained predictive performance (MSE ~1.47 → ~1.48)
+Demonstrated that regularized linear models outperform complex models in sparse, high-dimensional data
 
 ---
 
