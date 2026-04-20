@@ -1,10 +1,54 @@
-- 👋 Hi, I’m @andrewppratt
-- 👀 I’m interested in Data Science, Machine Learnng, and Computer Vision.
-- 🌱 I have recently completed my Masters of Engineering Science in Data Science at the Univerisity at Buffalo.
-- 💞️ I’m looking to collaborate on anything I can help with.
-- 📫 How to reach me pratt.andrew.p@gmail.com
+# 👋 Andrew Pratt
 
-<!---
-andrewppratt/andrewppratt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Software Engineer → ML / AI Engineer
+
+I’m a software developer transitioning into machine learning and AI engineering, focused on building real-world data pipelines and applied models.
+
+---
+
+## 🧬 Featured Project: Genomic ML Pipeline
+
+* Implemented a full pipeline for genomic data analysis:
+
+  * SNP simulation
+  * GWAS (Genome-Wide Association Study)
+  * Bonferroni correction
+  * Feature selection
+  * ML models (Lasso, Random Forest)
+
+**Key insight:**
+
+> Simple models outperform complex ones in high-dimensional sparse data.
+
+---
+
+## 🧠 Interests
+
+* Machine Learning
+* Data Science
+* AI Systems
+* Genomics / Bioinformatics
+
+---
+
+## 🛠 Tech Stack
+
+* Python (NumPy, Pandas, Scikit-learn)
+* SQL / Databases
+* Linux / Backend Systems
+* PHP
+
+---
+
+## 📈 Current Focus
+
+* Building ML portfolio projects
+* Applying ML to real-world datasets
+* Transitioning into ML / AI engineering roles
+
+---
+
+## 📫 Connect
+
+* LinkedIn: linkedin.com/in/andrew-p-pratt/
+* Website: prattanalytics.com
