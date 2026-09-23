@@ -1,8 +1,8 @@
 # 👋 Andrew Pratt
 
-## 🚀 Software Engineer → ML / AI Engineer
+## 🚀 AI/ML Engineer & Software Engineer
 
-I’m a software developer transitioning into machine learning and AI engineering, focused on building real-world data pipelines and applied models.
+I’m focused on building real-world data pipelines and applied models.
 
 ---
 
@@ -45,7 +45,7 @@ Built a full pipeline for analyzing high-dimensional genomic data:
 
 * Building ML portfolio projects
 * Applying ML to real-world datasets
-* Transitioning into ML / AI engineering roles
+* ML / AI engineering roles
 
 ---
 
